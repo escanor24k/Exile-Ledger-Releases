@@ -6,7 +6,7 @@
 
 Price check items, handle trade whispers with one click and keep track of what your trades actually earn, without ever leaving the game.
 
-`Version 0.1.0` · `Windows 10 / 11` · `Path of Exile 1`
+`Version 0.2.0` · `Windows 10 / 11` · `Path of Exile 1`
 
 </div>
 
