@@ -6,7 +6,7 @@
 
 Price check items, handle trade whispers with one click and keep track of what your trades actually earn, without ever leaving the game.
 
-`Version 0.2.0` · `Windows 10 / 11` · `Path of Exile 1`
+`Version 0.2.1` · `Windows 10 / 11` · `Path of Exile 1`
 
 </div>
 
@@ -78,8 +78,9 @@ Hover an item in game and press **Ctrl+D**. A price panel opens directly over th
   - Item mods are matched automatically, including mod tiers (T1, T2, …).
   - Totals for life and resistances are calculated for you.
   - The strongest mods of rare items are pre-selected. Every filter and minimum value can be adjusted.
+  - Choose the listing type like on the trade site: *Instant Buyout and In Person*, *Instant Buyout*, *In Person (Online in League)*, *In Person (Online)* or *Any*. The default is set in *Settings → Price Check*.
 - **Results:**
-  - Lowest price, median price and online status of each seller.
+  - Lowest price, median price and online status of each seller. Instant-buyout listings are marked with ⚡.
   - **Whisper button** for every listing. The purchase then shows up in the trade overlay automatically.
 - Open the same search on the trade website with one click.
 
